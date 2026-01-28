@@ -1,6 +1,6 @@
 # 📊 PolyTape Python Example
 
-A high-fidelity Python client and example suite for the **PolyTape Prediction Market Data API**. This repository demonstrates how to bridge the gap between Polymarket's web interface and professional-grade quant data by resolving parent events into specific tradable asset IDs.
+A high-fidelity Python client and example suite for the **PolyTape Prediction Market Data API**. This repository demonstrates how to bridge the gap between Polymarket's web interface and professional-grade quant data by resolving parent events into specific tradable asset ID.
 
 ---
 
