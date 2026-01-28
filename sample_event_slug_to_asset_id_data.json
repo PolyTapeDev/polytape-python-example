@@ -1,0 +1,1538 @@
+[
+  {
+    "question": "Will Stephen A. Smith win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "60590045489347122735554346200880179420435533609307820342798544098823516727807",
+    "condition_id": "0xc8f1cf5d4f26e0fd9c8fe89f2a7b3263b902cf14fde7bfccef525753bb492e47"
+  },
+  {
+    "question": "Will Stephen A. Smith win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "76005700027045000587004110133818166617024719626220722682005164003117993034812",
+    "condition_id": "0xc8f1cf5d4f26e0fd9c8fe89f2a7b3263b902cf14fde7bfccef525753bb492e47"
+  },
+  {
+    "question": "Will Gretchen Whitmer win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "57761428076807364758801249497410455358987881775226117256631754592198558850468",
+    "condition_id": "0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f"
+  },
+  {
+    "question": "Will Gretchen Whitmer win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "64300336035644500626313522990854070672468621241744347587785777226296613235598",
+    "condition_id": "0xe39adea057926dc197fe30a441f57a340b2a232d5a687010f78bba9b6e02620f"
+  },
+  {
+    "question": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "2213957649161627793381994368131485505647723208738124952452819345058597751695",
+    "condition_id": "0xe06a7e94cf2fa8dc2085b7610fe16e9be1cde6654f34d365c13da1149b276c61"
+  },
+  {
+    "question": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "44046525152074436753629616217525652949736205933417533647338274649282385796755",
+    "condition_id": "0xe06a7e94cf2fa8dc2085b7610fe16e9be1cde6654f34d365c13da1149b276c61"
+  },
+  {
+    "question": "Will Person P win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "67834126955354466786049932246962827069514258320708123726234642047236874537300",
+    "condition_id": "0x88c805f8d638bd14c188a67112bc40ae85d5eea4b7370d7586e8f5b8d37da304"
+  },
+  {
+    "question": "Will Person P win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "85842730802801029317331291122638780955014362480310249655739704629273608465884",
+    "condition_id": "0x88c805f8d638bd14c188a67112bc40ae85d5eea4b7370d7586e8f5b8d37da304"
+  },
+  {
+    "question": "Will Person S win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "62721325588078416441678692954905586544000289214339415151384834742710012983810",
+    "condition_id": "0x7c467744f13d33367f8ef0a34dc8aeb0845de0d1be4f92f7874fc1cd0d36a545"
+  },
+  {
+    "question": "Will Person S win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "4587616472715295492925849115245921456579283399977029619430824277410859697",
+    "condition_id": "0x7c467744f13d33367f8ef0a34dc8aeb0845de0d1be4f92f7874fc1cd0d36a545"
+  },
+  {
+    "question": "Will Person AB win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "111635662227571049699477896721168705336791547298738629583975917043983607244581",
+    "condition_id": "0xb4bc952b12bf4f6e8e1e32d0b70d56cb70ac6aac22b65ec2fe553eceb440fc0c"
+  },
+  {
+    "question": "Will Person AB win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "69608715086648483252215403238022113824465360674435817814630822367317496032168",
+    "condition_id": "0xb4bc952b12bf4f6e8e1e32d0b70d56cb70ac6aac22b65ec2fe553eceb440fc0c"
+  },
+  {
+    "question": "Will Person BE win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "26051709075139926812416640588227674451225531724370576173852192065039771184946",
+    "condition_id": "0xde0c28965f2b7bdd29c586705b5c6e77d9cd8cfc3cc8631b3506737d0f307304"
+  },
+  {
+    "question": "Will Person BE win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "36442066852430809143534465944906588194413613953807290212091686165484591423242",
+    "condition_id": "0xde0c28965f2b7bdd29c586705b5c6e77d9cd8cfc3cc8631b3506737d0f307304"
+  },
+  {
+    "question": "Will Person BJ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "58688952441170340766616799572020858099704462963199992338893871702247255570689",
+    "condition_id": "0x6b96ea1be30b7e5757007fd87ac56a3a67b632f9712747e8c98b3bad70db3e21"
+  },
+  {
+    "question": "Will Person BJ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "75708655734154788596125992591337136429658343364627332956307453852181975676758",
+    "condition_id": "0x6b96ea1be30b7e5757007fd87ac56a3a67b632f9712747e8c98b3bad70db3e21"
+  },
+  {
+    "question": "Will Person CB win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "3340088082730676135897911257120828448473799417638750902251144845823547335505",
+    "condition_id": "0xebc2e4d9def0a3639fde17f714a50a02420e515a7b09df321f4272a0e7647d4d"
+  },
+  {
+    "question": "Will Person CB win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "101059113335502619032043574079431516436531150077795487355325665983169098827973",
+    "condition_id": "0xebc2e4d9def0a3639fde17f714a50a02420e515a7b09df321f4272a0e7647d4d"
+  },
+  {
+    "question": "Will Person CM win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "14307229384780441324219106655776098479081358891043884054095528738763550013145",
+    "condition_id": "0xdfc354f84e32137ce62596e4097e6247365bb5d12b9267d5f494e18f36bddb8c"
+  },
+  {
+    "question": "Will Person CM win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "22402725294963571443835688671548846169161296633200548746995332593240588517691",
+    "condition_id": "0xdfc354f84e32137ce62596e4097e6247365bb5d12b9267d5f494e18f36bddb8c"
+  },
+  {
+    "question": "Will another person win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "56276407178137464106155902677779647430650342076032000643690644026940603132442",
+    "condition_id": "0x20280a56684e9e9b18dd81e1dc2c10433b7b08913ba03aa5bbd481f6e4f2f754"
+  },
+  {
+    "question": "Will another person win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "109330335586444066712517376582296482445981629849972290596989097679582976214786",
+    "condition_id": "0x20280a56684e9e9b18dd81e1dc2c10433b7b08913ba03aa5bbd481f6e4f2f754"
+  },
+  {
+    "question": "Will Andy Beshear win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "26468656392978559668331516709623917078428425933265692717836103090220693717685",
+    "condition_id": "0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9"
+  },
+  {
+    "question": "Will Andy Beshear win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "26335362363448644358593284423242327477307616743233875606762153873424287882825",
+    "condition_id": "0x1d519b87999e3d4e90e1e8f57b5eee73a0ba488ff3fdb70867f294733aba84a9"
+  },
+  {
+    "question": "Will Person N win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "52535923606561722941567320365820395300598958985353103429657683100920373025261",
+    "condition_id": "0xb91be12388b3d4079c3ed9b5783cb42d8c33051d37746a49300227e0f45fc089"
+  },
+  {
+    "question": "Will Person N win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "20643805904661385280242837899001038341346631607217619709766724611396929658707",
+    "condition_id": "0xb91be12388b3d4079c3ed9b5783cb42d8c33051d37746a49300227e0f45fc089"
+  },
+  {
+    "question": "Will Person T win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "88892629978057552473594496509394432528313837466696628191322608851106929962536",
+    "condition_id": "0x0b4ef8dad7d6d1bc117bf918f09d5d4f99662a0aa375ec9c6a994d1835b3bea9"
+  },
+  {
+    "question": "Will Person T win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "86408082986810982428934766746057237103501895775284376283076301431054177694153",
+    "condition_id": "0x0b4ef8dad7d6d1bc117bf918f09d5d4f99662a0aa375ec9c6a994d1835b3bea9"
+  },
+  {
+    "question": "Will Person AP win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "96045583191902551600741963195563063978218420147273231893523973861127233124527",
+    "condition_id": "0x677ca56338ea402c64303013644ecc29c04bd62ce7260ec86e217286e4ee7300"
+  },
+  {
+    "question": "Will Person AP win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "94456717331354244410762330793999945814263362725820143450976057960127681911638",
+    "condition_id": "0x677ca56338ea402c64303013644ecc29c04bd62ce7260ec86e217286e4ee7300"
+  },
+  {
+    "question": "Will Person BZ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "61456720146683627994602759985987139001699180477672364460708182278616695833551",
+    "condition_id": "0xc58814c3bc1ca3cc917ebd9012d38d1d5076275125695a421be6e5967b0448c8"
+  },
+  {
+    "question": "Will Person BZ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "114391291069660246384883959175493433752172430203730201659968005602208372309784",
+    "condition_id": "0xc58814c3bc1ca3cc917ebd9012d38d1d5076275125695a421be6e5967b0448c8"
+  },
+  {
+    "question": "Will Person CE win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "108959219329512967331653104388116422973967026746069836656233666689943543288046",
+    "condition_id": "0x80cb9d36d3052c6a27ac1bc50ba8a4d0610afc2a55993b717431629bab3e7120"
+  },
+  {
+    "question": "Will Person CE win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "21180083197694421780009400351873270591635903388152535900139246545909876037932",
+    "condition_id": "0x80cb9d36d3052c6a27ac1bc50ba8a4d0610afc2a55993b717431629bab3e7120"
+  },
+  {
+    "question": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "91031279171981959197361710127213577102576826515163085396576756946418341946256",
+    "condition_id": "0x4c325469d9b516ef4e6b8f73a81a12607dec075e3c2fd454f91765aaeafc4760"
+  },
+  {
+    "question": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "18494065527924073750217237765784380365430319396356251245973222791140100738948",
+    "condition_id": "0x4c325469d9b516ef4e6b8f73a81a12607dec075e3c2fd454f91765aaeafc4760"
+  },
+  {
+    "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "70071592420137476676935286377781779672157004436137616627487590484756055232944",
+    "condition_id": "0x74dba1ce1ae9dd535414e85f2d9ab5ea32c0fb1acc9b7130b67e6d91217e24e1"
+  },
+  {
+    "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "107829893465244243112531790315844862173967342141753896250561816305880797209350",
+    "condition_id": "0x74dba1ce1ae9dd535414e85f2d9ab5ea32c0fb1acc9b7130b67e6d91217e24e1"
+  },
+  {
+    "question": "Will Gina Raimondo win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "35165603539035270209469650915267170915291414186795231160733227083640059691764",
+    "condition_id": "0xcb239105ed21a2420ba4d85090b9bc32755c56601ffdc528afd17fd6282fe930"
+  },
+  {
+    "question": "Will Gina Raimondo win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "82254794773423437491598574581796732934760602553828664932786984448280136473130",
+    "condition_id": "0xcb239105ed21a2420ba4d85090b9bc32755c56601ffdc528afd17fd6282fe930"
+  },
+  {
+    "question": "Will Person U win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "70419914298819599884598619432566620509485573636622456902301761941886565776666",
+    "condition_id": "0xcb0aa5d1f9c1a9369859acbd8fceb255ec001224fc25272dc5f0c6a599507bcf"
+  },
+  {
+    "question": "Will Person U win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "17607158498290934698430813319324932561291042726975634499432565780430086473903",
+    "condition_id": "0xcb0aa5d1f9c1a9369859acbd8fceb255ec001224fc25272dc5f0c6a599507bcf"
+  },
+  {
+    "question": "Will Person AQ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "77290426404884233353354639456116273457882050846241984704615429838711323662724",
+    "condition_id": "0x6dca255f648ddda1c7cc8438c96d0fdb4339f0d6eb40e247fe62b76609e34178"
+  },
+  {
+    "question": "Will Person AQ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "23281746644115496801741879723574582453954753944211633348472899340482097090167",
+    "condition_id": "0x6dca255f648ddda1c7cc8438c96d0fdb4339f0d6eb40e247fe62b76609e34178"
+  },
+  {
+    "question": "Will Person BV win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "33503305093436951839586366909803209858988444941210614023016351613971940248280",
+    "condition_id": "0x81c5387f650a1bbf6ea212898cf3d1d96a984df5615850ae4a189540f42c6e59"
+  },
+  {
+    "question": "Will Person BV win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "62787048197222956751489645976865348212094622918837666192883377872619475118225",
+    "condition_id": "0x81c5387f650a1bbf6ea212898cf3d1d96a984df5615850ae4a189540f42c6e59"
+  },
+  {
+    "question": "Will Person CF win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "77034429832645252314120420117775059754142585728289306955594267466672173525296",
+    "condition_id": "0x84412c2960f5e3eda6a85447c6932d1ce69a5be2fca49274631d6655402ef892"
+  },
+  {
+    "question": "Will Person CF win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "16846581992525569150746206699789588898768014432778837203097220741221687731275",
+    "condition_id": "0x84412c2960f5e3eda6a85447c6932d1ce69a5be2fca49274631d6655402ef892"
+  },
+  {
+    "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "52310257194926233099477326083312959938983447523839326865869372741334281264830",
+    "condition_id": "0xdce84960dce38aa4a5800a5eba7c9ac34d2ce49ba9d44c42572c472d468af264"
+  },
+  {
+    "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "88403451835230950222119400360490338078378790763472355557584611572247419676051",
+    "condition_id": "0xdce84960dce38aa4a5800a5eba7c9ac34d2ce49ba9d44c42572c472d468af264"
+  },
+  {
+    "question": "Will Barack Obama win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "88927218779847397120407909832537568114340511586397698395193736044476021744522",
+    "condition_id": "0x88d67705780a3d922317ecb0c78a947a306174d0510df2ae89394d5abfb28206"
+  },
+  {
+    "question": "Will Barack Obama win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "93993883668914241189795812807312922412111034935516092303580333564217329905759",
+    "condition_id": "0x88d67705780a3d922317ecb0c78a947a306174d0510df2ae89394d5abfb28206"
+  },
+  {
+    "question": "Will George Clooney win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "48218088132821386640274752564592889805082274744128282833036735027928992155024",
+    "condition_id": "0x822e61527476cabf98927e3aad385c5ecdae7086f945535f2c1fd9ae8dbfa46e"
+  },
+  {
+    "question": "Will George Clooney win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "5645396948464928632054207670692862818297222862819597089648758232622731040046",
+    "condition_id": "0x822e61527476cabf98927e3aad385c5ecdae7086f945535f2c1fd9ae8dbfa46e"
+  },
+  {
+    "question": "Will Person AL win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "47325189492234427082586806297365840319875506151628539339374628119372903648436",
+    "condition_id": "0xdd05c53d8311c7e48beeed0af1f1a7357a167916a4ef3ee978140504c693ef50"
+  },
+  {
+    "question": "Will Person AL win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "100546772451717247413452479734711480176597462086441357512708120564547013853826",
+    "condition_id": "0xdd05c53d8311c7e48beeed0af1f1a7357a167916a4ef3ee978140504c693ef50"
+  },
+  {
+    "question": "Will Person BH win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "43952129520297304288132655541213851451688363928002640676678418448820573540043",
+    "condition_id": "0x98a2bd84987596ecc92bdc15c920b8b15e533a23ad54e4650331a86fc7341a40"
+  },
+  {
+    "question": "Will Person BH win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "45910197516325255626858029452367285035915048699592452577228220058594286503239",
+    "condition_id": "0x98a2bd84987596ecc92bdc15c920b8b15e533a23ad54e4650331a86fc7341a40"
+  },
+  {
+    "question": "Will Person BO win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "55936982780360155644769881708546426370809136936514134561721068167436207176797",
+    "condition_id": "0x14211662214c9972a4cbe578aef958cfa0bd039edececcb8d4ba804e43f47c16"
+  },
+  {
+    "question": "Will Person BO win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "51150748060044668469022607000512706507583326320185160069706412410253278441938",
+    "condition_id": "0x14211662214c9972a4cbe578aef958cfa0bd039edececcb8d4ba804e43f47c16"
+  },
+  {
+    "question": "Will Cory Booker win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "50887272939612765629559172143901565817521391945540156085421963433918821328137",
+    "condition_id": "0x1970bcce75e3674660917ae4685b433a9b1e0152d810a8d7c346dfd5e00694c2"
+  },
+  {
+    "question": "Will Cory Booker win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "29006371059590547574472177233842141554614007974283936149779962779213443973844",
+    "condition_id": "0x1970bcce75e3674660917ae4685b433a9b1e0152d810a8d7c346dfd5e00694c2"
+  },
+  {
+    "question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "58343456405874365460518182619380252930558598368174305791768670198253267891911",
+    "condition_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3"
+  },
+  {
+    "question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "84566561349071752664514432513198569980219178901068420341175150225620958953893",
+    "condition_id": "0xfee07be730188c94cd3644ed6f107fa3ea2dfab9989ce8d39aeeae064766abe3"
+  },
+  {
+    "question": "Will Person Z win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "58221613119997425480757528389931244671854094565080161386357555362498959078317",
+    "condition_id": "0xb7efa9c7d7d007df76ef9fa24ad01c51cbe9464b096740a4ae8c37dc0fcf7df6"
+  },
+  {
+    "question": "Will Person Z win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "20619834124625942751212664663222741074366744733361222107906707813695329234056",
+    "condition_id": "0xb7efa9c7d7d007df76ef9fa24ad01c51cbe9464b096740a4ae8c37dc0fcf7df6"
+  },
+  {
+    "question": "Will Person AK win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "72073860017912176542789655385007294307881808776328226056658977688982074215383",
+    "condition_id": "0xfd8318449c6d6b5b107c5ccac78b51310489b3cf527970a658d3ab4cccd1e1f4"
+  },
+  {
+    "question": "Will Person AK win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "100448013609759288394090235341050429966612339607276153351720344544506842346404",
+    "condition_id": "0xfd8318449c6d6b5b107c5ccac78b51310489b3cf527970a658d3ab4cccd1e1f4"
+  },
+  {
+    "question": "Will Person BP win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "45195319393000064912503625808061357244920289844774139049853907783824743426028",
+    "condition_id": "0x01a8ec736669ebaee94ee8e107b478fc5a8230b8cbd53b0df64359360d09c541"
+  },
+  {
+    "question": "Will Person BP win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "17150748414468418917244343849888988467896510209652626248734035267134382289511",
+    "condition_id": "0x01a8ec736669ebaee94ee8e107b478fc5a8230b8cbd53b0df64359360d09c541"
+  },
+  {
+    "question": "Will Tim Walz win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "104464678880204778606895232389511543522030897731392516718349574106843434770446",
+    "condition_id": "0x3265b10daeb30dbcc3214bd02e488551d0a5d3028392f4152e4750b943fbfc91"
+  },
+  {
+    "question": "Will Tim Walz win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "90935594925886073322524509252821043048115343298080885997215308777385571383769",
+    "condition_id": "0x3265b10daeb30dbcc3214bd02e488551d0a5d3028392f4152e4750b943fbfc91"
+  },
+  {
+    "question": "Will Bernie Sanders win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "113510300123120868861281132282742729065975487298059944817273881893086209196585",
+    "condition_id": "0x30cfb887558b20373a984da60c372fe5a90c0296aa6d8bb413a8aa7543846da2"
+  },
+  {
+    "question": "Will Bernie Sanders win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "3444964147133304300560138317203877470064591148213906708394693248804691192318",
+    "condition_id": "0x30cfb887558b20373a984da60c372fe5a90c0296aa6d8bb413a8aa7543846da2"
+  },
+  {
+    "question": "Will Person AX win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "79387023228794475878586433481650910892495234808562587569025563870016835879713",
+    "condition_id": "0x79a99eb7dab615ba885d3c3f1ee9761022401333a883cb2e63f2fc9a5fb3e1df"
+  },
+  {
+    "question": "Will Person AX win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "31478683110568992073832006764033919739413892967418652053483631773382078784043",
+    "condition_id": "0x79a99eb7dab615ba885d3c3f1ee9761022401333a883cb2e63f2fc9a5fb3e1df"
+  },
+  {
+    "question": "Will Person BR win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "108290839808901003342296264369576152302033794999209615754824677560846727113820",
+    "condition_id": "0xd675deb274634300c7edf6ea5b4c829ffb024f5336c98a0c279ff83cd7502795"
+  },
+  {
+    "question": "Will Person BR win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "65294444603412592304549173924534089624500733969910002609504291874950957010425",
+    "condition_id": "0xd675deb274634300c7edf6ea5b4c829ffb024f5336c98a0c279ff83cd7502795"
+  },
+  {
+    "question": "Will Mark Kelly win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "92325249719485031139867422012514654102580961954747753469470405147070256604118",
+    "condition_id": "0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701"
+  },
+  {
+    "question": "Will Mark Kelly win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "5116999494213083595175041146469973274436003044730013359502912125889113751080",
+    "condition_id": "0x36db77c539bcc8c7bf0686c1b99f30c5a5eed1f53d3b3a27a071550c81f83701"
+  },
+  {
+    "question": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "41340056280794024415573839406074658402877379128871144681466050648033201160259",
+    "condition_id": "0x46dbd48d6bde5b81edb480e0f676a2cdda6c6b592c4d86a9367c7ad5a9870195"
+  },
+  {
+    "question": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "63802361760137863513735993346883582181207639895442036953936089060482564982249",
+    "condition_id": "0x46dbd48d6bde5b81edb480e0f676a2cdda6c6b592c4d86a9367c7ad5a9870195"
+  },
+  {
+    "question": "Will Beto O\u2019Rourke win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "37126434962149084556522721025504254258386171468763869879755961635390358765833",
+    "condition_id": "0x8ecd1d15e521b7d1020ad5596cc981c8764e9dcfbc3648f582e1a5138aee7185"
+  },
+  {
+    "question": "Will Beto O\u2019Rourke win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "2426274669138238576933962603416907393958833898063513872892433203206006096668",
+    "condition_id": "0x8ecd1d15e521b7d1020ad5596cc981c8764e9dcfbc3648f582e1a5138aee7185"
+  },
+  {
+    "question": "Will Person AD win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "52219313074929185693584567091359703980059031996000300009302407272639508290817",
+    "condition_id": "0x013697ecde52e21cdeab7a60774a9b09d2e32394102acbdd06abdf22d93bda10"
+  },
+  {
+    "question": "Will Person AD win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "56981471499966774235573865546506890444159063132395153513492394187130369819057",
+    "condition_id": "0x013697ecde52e21cdeab7a60774a9b09d2e32394102acbdd06abdf22d93bda10"
+  },
+  {
+    "question": "Will Person AO win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "27923551130984579992711361046188290125189886406249709503209435523522893175412",
+    "condition_id": "0xbb1911b0a0ab72940a8e6034c9881fc904a999b3b1c81689bd53a8d2aef05066"
+  },
+  {
+    "question": "Will Person AO win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "97879534341893763495177424075210517436029630322377063443001397231653665273728",
+    "condition_id": "0xbb1911b0a0ab72940a8e6034c9881fc904a999b3b1c81689bd53a8d2aef05066"
+  },
+  {
+    "question": "Will Person CD win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "100302843022233557835546974837763822109948166050242900474561336231109480848516",
+    "condition_id": "0x890275883183b60bef67cdcafb7594d03c1bebcd50a5c6cda773548e64d25c95"
+  },
+  {
+    "question": "Will Person CD win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "78130711529961661762502727010338424207341474824214463506090628666737684541159",
+    "condition_id": "0x890275883183b60bef67cdcafb7594d03c1bebcd50a5c6cda773548e64d25c95"
+  },
+  {
+    "question": "Will Person CO win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "3542039530304632216509530119285651006548893280810574750400052956633469846460",
+    "condition_id": "0x1168c52def141c3815e8d67dcfa25c5e22f7d5498563c8992980e59539e7f7d5"
+  },
+  {
+    "question": "Will Person CO win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "102945730951296751507368099201386487037134484215292691316026165298919021815053",
+    "condition_id": "0x1168c52def141c3815e8d67dcfa25c5e22f7d5498563c8992980e59539e7f7d5"
+  },
+  {
+    "question": "Will Michelle Obama win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "83723134981785004242996949681785273460678873813693556756054904164484296299719",
+    "condition_id": "0x3e218c99a1335641b3a5ee6c887521d19b0c28fddd6b99c254a07968e35c0b1b"
+  },
+  {
+    "question": "Will Michelle Obama win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "107146110974011455665373243296921398136854344089489911087344946921091914123046",
+    "condition_id": "0x3e218c99a1335641b3a5ee6c887521d19b0c28fddd6b99c254a07968e35c0b1b"
+  },
+  {
+    "question": "Will Zohran Mamdani win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "19323997520040734631220675039559156784534982703459512097490198935565229528445",
+    "condition_id": "0x3535fb2f4aef6619dde8b367cb5e5d209526bb496d5d9778428c58a0252435e3"
+  },
+  {
+    "question": "Will Zohran Mamdani win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "111309365336519526711604102518316708823622751854213281307404397618571408959194",
+    "condition_id": "0x3535fb2f4aef6619dde8b367cb5e5d209526bb496d5d9778428c58a0252435e3"
+  },
+  {
+    "question": "Will Andrew Yang win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "102504892414163237174864879683522880588750452841477290216845150938663289742135",
+    "condition_id": "0x450810ae738a0ff820d3248f2b24937f63fb8c8cf422ed2a915125adb4d9d3c8"
+  },
+  {
+    "question": "Will Andrew Yang win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "21234886083000978203440582985665409733123024063268807484684316771005736994028",
+    "condition_id": "0x450810ae738a0ff820d3248f2b24937f63fb8c8cf422ed2a915125adb4d9d3c8"
+  },
+  {
+    "question": "Will Person AC win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "77801655238597340373061218099410620583625645013672902242211613776005226404191",
+    "condition_id": "0xe64905095b5c1ff9bc61e746d95c5e16fa7208d3a7199a62a77ac05c9aabfb29"
+  },
+  {
+    "question": "Will Person AC win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "16670784082149884499115886253855668054655312058034084434424395036013843434453",
+    "condition_id": "0xe64905095b5c1ff9bc61e746d95c5e16fa7208d3a7199a62a77ac05c9aabfb29"
+  },
+  {
+    "question": "Will Person CN win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "89963620382835832957213392786742218713066284395057063500521594414646870365528",
+    "condition_id": "0xa0fac47d9864989d4b49c910d470968d0e6fe5fb8bea9d6ae37650137c11c4ac"
+  },
+  {
+    "question": "Will Person CN win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "67237460110617872045501817285568108775086860989509702553077228942185836535986",
+    "condition_id": "0xa0fac47d9864989d4b49c910d470968d0e6fe5fb8bea9d6ae37650137c11c4ac"
+  },
+  {
+    "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "107064985435494333113391038470401719113272800530429703182710416066774068907304",
+    "condition_id": "0xe6bcc2f1dd025ce5e1833190f7c60a71171c94f805df55b9ab0ded695ec93565"
+  },
+  {
+    "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "65176072261324737856085688071627118509549293922582857186996392180609764586527",
+    "condition_id": "0xe6bcc2f1dd025ce5e1833190f7c60a71171c94f805df55b9ab0ded695ec93565"
+  },
+  {
+    "question": "Will Rahm Emanuel win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "10521981432803570450946212503203364998108630328528216082760514453664705157397",
+    "condition_id": "0x3dc47a72ac6bb265e9cefebd2a2eeed00966394cb2d07245b5c94138b60e82a3"
+  },
+  {
+    "question": "Will Rahm Emanuel win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "91949042216127305292438280992722171735754548787382833799906976841509942727662",
+    "condition_id": "0x3dc47a72ac6bb265e9cefebd2a2eeed00966394cb2d07245b5c94138b60e82a3"
+  },
+  {
+    "question": "Will John Fetterman win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "71289010523270989807437428651002770360280908813019627976988032260868574107425",
+    "condition_id": "0xca1d1139b0c3a29983407f499476ae642482788e841a277eb86faeeb9fa4a85c"
+  },
+  {
+    "question": "Will John Fetterman win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "68686505966910102763700888296813272792512562699674656659355148432859571994559",
+    "condition_id": "0xca1d1139b0c3a29983407f499476ae642482788e841a277eb86faeeb9fa4a85c"
+  },
+  {
+    "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "55087250670040717711131370018408221134109122974378698780636020561523521220754",
+    "condition_id": "0x0f8ef3cc906ba7ba94a44724738df44bdd5f73e59e40c9c8b4ff8569e349643c"
+  },
+  {
+    "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "108145967398435925971960442906832714254932011684365058146885679351681137451999",
+    "condition_id": "0x0f8ef3cc906ba7ba94a44724738df44bdd5f73e59e40c9c8b4ff8569e349643c"
+  },
+  {
+    "question": "Will Ruben Gallego win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "94658518227479141344875476648819337938746150529318297759951212169676959854478",
+    "condition_id": "0x98933c78b5e277b62d91a6c174b412218de000b54c4c67ec8673bf561cec6e81"
+  },
+  {
+    "question": "Will Ruben Gallego win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "89549550119611798541187132573193884477265258658615163602217456913355320927577",
+    "condition_id": "0x98933c78b5e277b62d91a6c174b412218de000b54c4c67ec8673bf561cec6e81"
+  },
+  {
+    "question": "Will Person AE win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "40880617039204174422653651157711067759940947494364579266291151793946760177003",
+    "condition_id": "0x1bc2c1f3b33f752fe2a6608cf4ce0e85295be5e40410bcb8cfff1e394a149a06"
+  },
+  {
+    "question": "Will Person AE win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "88584833015238245117055027618213881571028875779800894782961214399732624765768",
+    "condition_id": "0x1bc2c1f3b33f752fe2a6608cf4ce0e85295be5e40410bcb8cfff1e394a149a06"
+  },
+  {
+    "question": "Will Person BX win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "18131654228805268207086092962137569875968247580203593964488493912753554686177",
+    "condition_id": "0xe5574178bce093191104c9e9dc560ba5aafec43f276f8b7247529e8bb356d39d"
+  },
+  {
+    "question": "Will Person BX win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "45221066337452651029846091365904019141249155061062409819118185029810957163638",
+    "condition_id": "0xe5574178bce093191104c9e9dc560ba5aafec43f276f8b7247529e8bb356d39d"
+  },
+  {
+    "question": "Will Person CP win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "41355811068904772362934096857005651349003039973843861115309355320699875862783",
+    "condition_id": "0xfb9f174351344b0a33a7a8ba43f483a97166eddbcbcb9f08306f599e7460bcb1"
+  },
+  {
+    "question": "Will Person CP win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "115409225327348756405470506216183907127889004629205636108399899381773372369446",
+    "condition_id": "0xfb9f174351344b0a33a7a8ba43f483a97166eddbcbcb9f08306f599e7460bcb1"
+  },
+  {
+    "question": "Will Jared Polis win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "42119164854283656238382173699154739480090965550328051492328192273011556335098",
+    "condition_id": "0x8fbcb151e2c988df5a43abb02298014b7daf34c008f3eed9188dd16a2a19bec1"
+  },
+  {
+    "question": "Will Jared Polis win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "39150381508679235943386404690610035044747196600759141560840372170757042543675",
+    "condition_id": "0x8fbcb151e2c988df5a43abb02298014b7daf34c008f3eed9188dd16a2a19bec1"
+  },
+  {
+    "question": "Will Person AJ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "13919881969996545310788060412823540067477366798790280378853912022289410899152",
+    "condition_id": "0x50a955fbc8dadbcdb808bcee61e71e2f703a678fdaa4f6f126a4c6d42c566466"
+  },
+  {
+    "question": "Will Person AJ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "3846179999386092476945206893073375486091761397863435066914082724813649781932",
+    "condition_id": "0x50a955fbc8dadbcdb808bcee61e71e2f703a678fdaa4f6f126a4c6d42c566466"
+  },
+  {
+    "question": "Will Mark Cuban win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "58378309871183461257693288827678410871907006920578755035402846056315798427503",
+    "condition_id": "0x9d4f94f82de9d13ff1d3318639ab9000ee2533949e525343156f374fb00bd9b1"
+  },
+  {
+    "question": "Will Mark Cuban win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "55392527126713018429304496836617506663024188480522297953714346140749923557790",
+    "condition_id": "0x9d4f94f82de9d13ff1d3318639ab9000ee2533949e525343156f374fb00bd9b1"
+  },
+  {
+    "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "81633484456710374417231462107666791993850637546563366185897100962157481970040",
+    "condition_id": "0x29283b56d3eec6d1d89fff51793d9d2e01579d2379b1d3e9ebda175d3561e809"
+  },
+  {
+    "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "114507466536734360808195115190160357255467689128176113085692265197019898971527",
+    "condition_id": "0x29283b56d3eec6d1d89fff51793d9d2e01579d2379b1d3e9ebda175d3561e809"
+  },
+  {
+    "question": "Will Person BL win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "83562499447456233423707054235891828079381295515900492806463329341930549814275",
+    "condition_id": "0x4323091d9e8adb62210158e50156a60c48bfc02be64a12f165f3db60afc32c2d"
+  },
+  {
+    "question": "Will Person BL win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "77887874773293959413621014977111444131724777658049761416974496077997272336899",
+    "condition_id": "0x4323091d9e8adb62210158e50156a60c48bfc02be64a12f165f3db60afc32c2d"
+  },
+  {
+    "question": "Will Person BM win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "30679283436658405783787427735335760072223915242662015325232753284419239786615",
+    "condition_id": "0x40cb0897157f2015eab900ab663bf878ad7e735d446f7cec4ee84b69f3b8f6a8"
+  },
+  {
+    "question": "Will Person BM win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "43499776151567912639240795123001101283718078980712664300957707702079467590577",
+    "condition_id": "0x40cb0897157f2015eab900ab663bf878ad7e735d446f7cec4ee84b69f3b8f6a8"
+  },
+  {
+    "question": "Will Wes Moore win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "90227223115596293448966158151606153337847900483048338623540402385929720677904",
+    "condition_id": "0x61d9486c0f7e14ed98f3b177b6adcb3cd45646c92e8bbfbf209789b86472d4b6"
+  },
+  {
+    "question": "Will Wes Moore win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "105134691322323565615831879054043168027913414000042547943201361115853277749482",
+    "condition_id": "0x61d9486c0f7e14ed98f3b177b6adcb3cd45646c92e8bbfbf209789b86472d4b6"
+  },
+  {
+    "question": "Will J.B. Pritzker win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "103988345069738240821107916249290759786442703283901164377120414690701074137717",
+    "condition_id": "0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d"
+  },
+  {
+    "question": "Will J.B. Pritzker win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "108650988487983371520585351370999192979899647080710024226285750050382033453124",
+    "condition_id": "0xe883f2fda25a605a184bb5fe583afce6cc21ea0b348b6a3728ec3067553c548d"
+  },
+  {
+    "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "100561779829530520068956424581003844045516012444425572625523659025114550346085",
+    "condition_id": "0x8b203037c7c0e21b500314f8398d2a8ea294b7ce1f4f9185f426425a3505bc45"
+  },
+  {
+    "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "46254744034025107660239982269249567113656697231872036621777316158933638064598",
+    "condition_id": "0x8b203037c7c0e21b500314f8398d2a8ea294b7ce1f4f9185f426425a3505bc45"
+  },
+  {
+    "question": "Will Hunter Biden win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "11343337042526652606304508556838778144915122118685013460142819817079620240439",
+    "condition_id": "0x1945a8b23e313ed7423b6b6fd556f9ab5578900376b565a61dc480a5f4f35d21"
+  },
+  {
+    "question": "Will Hunter Biden win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "19117858613830240204442128472263675815111662346578092643025820800380629933012",
+    "condition_id": "0x1945a8b23e313ed7423b6b6fd556f9ab5578900376b565a61dc480a5f4f35d21"
+  },
+  {
+    "question": "Will Person W win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "4865811310965824253043301476456494687696227904538198271117692275943047535567",
+    "condition_id": "0xd0e58ada317f9778a221592cfed03405b235b137c8dd916817a39b72bf6dc19a"
+  },
+  {
+    "question": "Will Person W win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "79794608519930936057256245365460158683416637197135162121080424897667989834195",
+    "condition_id": "0xd0e58ada317f9778a221592cfed03405b235b137c8dd916817a39b72bf6dc19a"
+  },
+  {
+    "question": "Will Person AS win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "103146498189519423796498384876240511273957889789468665636197873793670841340501",
+    "condition_id": "0x828c4ed10f838fa1e92307c2625c7b95d35b301ec685d0ad220b4ae31304f29a"
+  },
+  {
+    "question": "Will Person AS win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "111925330730490565263822297141736459864523709899207253939574931823296493783699",
+    "condition_id": "0x828c4ed10f838fa1e92307c2625c7b95d35b301ec685d0ad220b4ae31304f29a"
+  },
+  {
+    "question": "Will Person BF win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "15557637079662063934316892583800816017618100487089069949128951285538086851782",
+    "condition_id": "0x28fc5380fe1f4ae86cda4295c8b66c686b7c93a8e5cb5ce34269b286a6733244"
+  },
+  {
+    "question": "Will Person BF win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "96147785944001386292622894151941323848059287136394359060281432099023761901961",
+    "condition_id": "0x28fc5380fe1f4ae86cda4295c8b66c686b7c93a8e5cb5ce34269b286a6733244"
+  },
+  {
+    "question": "Will Person BN win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "84296297920760435805680179806555567286469878016707621473191842378534878906130",
+    "condition_id": "0x28ce7313817026523713675cb111fc5173d8b6cf9d2a4de97546d368d130253d"
+  },
+  {
+    "question": "Will Person BN win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "106046118982508369804340798114565006495722120283370800171026626176855921531624",
+    "condition_id": "0x28ce7313817026523713675cb111fc5173d8b6cf9d2a4de97546d368d130253d"
+  },
+  {
+    "question": "Will Person CH win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "10717776593208750171706187406100663933368420417940209029321902708282897947155",
+    "condition_id": "0x8bf16676efd232e3ed0b5575028088b6f38eb7a52536f16effc5c6848c389ded"
+  },
+  {
+    "question": "Will Person CH win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "18536401110705740486762817448705974845875304701082360410148783010526221916409",
+    "condition_id": "0x8bf16676efd232e3ed0b5575028088b6f38eb7a52536f16effc5c6848c389ded"
+  },
+  {
+    "question": "Will Person CI win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "82734050922560467621703727756507122180429584080790454933142358592914700737872",
+    "condition_id": "0x070b4615e60da761d13af1e27a688e291392ce2e93c7b2c96947965171a1f640"
+  },
+  {
+    "question": "Will Person CI win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "14776543034391624669011084298746624160833763046084549450046581253349082828189",
+    "condition_id": "0x070b4615e60da761d13af1e27a688e291392ce2e93c7b2c96947965171a1f640"
+  },
+  {
+    "question": "Will Chelsea Clinton win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "46211769122513729244602558513001215391004042100934296321661285791281233261657",
+    "condition_id": "0xf2e51acfbb6d0414dc2ace81b7dc2af7c165e443dcb91f6caa7aab6d6ab4f06d"
+  },
+  {
+    "question": "Will Chelsea Clinton win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "76057920052421891902791411567177996435483774677774664174053982044923692373687",
+    "condition_id": "0xf2e51acfbb6d0414dc2ace81b7dc2af7c165e443dcb91f6caa7aab6d6ab4f06d"
+  },
+  {
+    "question": "Will Person AV win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "51511748692302531106283652451682276471256067026283925696188105821892570282618",
+    "condition_id": "0xa4a4f246177dcfa8c0c763bc0e4c053205ce9d6d1f83ff27cf1cb1849aba80be"
+  },
+  {
+    "question": "Will Person AV win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "13685921138254890497255840713574115156041548349199938349545344891973886446368",
+    "condition_id": "0xa4a4f246177dcfa8c0c763bc0e4c053205ce9d6d1f83ff27cf1cb1849aba80be"
+  },
+  {
+    "question": "Will Person CK win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "18873140791341371010506086632052766684845497541116421802986606305027066599412",
+    "condition_id": "0x637243c837746cd235ff17224ad0128b88cd4e3164f5e8624c2688ad8c443bf3"
+  },
+  {
+    "question": "Will Person CK win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "44813279707238071443635916957878995528828504933513101940921619527831406380486",
+    "condition_id": "0x637243c837746cd235ff17224ad0128b88cd4e3164f5e8624c2688ad8c443bf3"
+  },
+  {
+    "question": "Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "40963724357262746498642320898188195118391211877976821531149510360187173789737",
+    "condition_id": "0x8dbf6b51f302fd401065706245c144e93fe209abce183199433d4484b3ed8aff"
+  },
+  {
+    "question": "Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "14959910401705469574520698331840889689202579612030624016640567510369602599866",
+    "condition_id": "0x8dbf6b51f302fd401065706245c144e93fe209abce183199433d4484b3ed8aff"
+  },
+  {
+    "question": "Will Person AA win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "39194173030259969764339373915648491940834122803604458032980981151890657679171",
+    "condition_id": "0xbdae335afcab79276d5d4d7bfb0146e6ff26e3d7bf0d211a28d94484cd423273"
+  },
+  {
+    "question": "Will Person AA win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "18723128532448726181977527367940665553067646980308878793890738080368578251544",
+    "condition_id": "0xbdae335afcab79276d5d4d7bfb0146e6ff26e3d7bf0d211a28d94484cd423273"
+  },
+  {
+    "question": "Will Person CL win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "67462294476456783124121200259589644760018778146213415816265434059408589655975",
+    "condition_id": "0x91628a3490414ffdeebc53c40032f2ec5d76423cce12f00659e9c52eccacb555"
+  },
+  {
+    "question": "Will Person CL win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "30182150193849110172830430858012106855512847573699159489132805843936069118262",
+    "condition_id": "0x91628a3490414ffdeebc53c40032f2ec5d76423cce12f00659e9c52eccacb555"
+  },
+  {
+    "question": "Will MrBeast win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "51035537065442638321333063915918274102446051033989435618245745345113522914516",
+    "condition_id": "0xc44edcfdedb422bae8ff1803e2178d1ee025fc41efd81400ccbede709e018841"
+  },
+  {
+    "question": "Will MrBeast win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "93910251767329056141706007839545721784238465183449597462421810827705938093892",
+    "condition_id": "0xc44edcfdedb422bae8ff1803e2178d1ee025fc41efd81400ccbede709e018841"
+  },
+  {
+    "question": "Will Chris Murphy win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "8815924480259634499011776432080696931704057619336093802050596292915996723758",
+    "condition_id": "0xc720fcfa9e29346a976902f87e0f0f3bdc31d43af501b4fdef4f1780a30dd359"
+  },
+  {
+    "question": "Will Chris Murphy win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "45099054006923138281311463758770234951153596952213440096254242321807308634603",
+    "condition_id": "0xc720fcfa9e29346a976902f87e0f0f3bdc31d43af501b4fdef4f1780a30dd359"
+  },
+  {
+    "question": "Will Person AF win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "102505392207307322195764911556439864458261168912251436135310938613510138758217",
+    "condition_id": "0x4aa6929d424c1d95f4bf3d134024b59ecbb84a4122873ae2716a3ca2d4d05770"
+  },
+  {
+    "question": "Will Person AF win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "65507065403954746247372004745775126074204256195914327539916948130923643014770",
+    "condition_id": "0x4aa6929d424c1d95f4bf3d134024b59ecbb84a4122873ae2716a3ca2d4d05770"
+  },
+  {
+    "question": "Will Person AW win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "100017533370723394343434164210748722249166999497784778325435480171665601834136",
+    "condition_id": "0x1307ceadab7aec647957add758621806b85068693f24ed5347a35ba8a65e9f2c"
+  },
+  {
+    "question": "Will Person AW win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "86465716390613575810326681751363297274165890172382661507885600165214427642427",
+    "condition_id": "0x1307ceadab7aec647957add758621806b85068693f24ed5347a35ba8a65e9f2c"
+  },
+  {
+    "question": "Will Person BC win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "58805007893283718372294875021705535229889405861237192726186487873972767343793",
+    "condition_id": "0x9c966d8619fb444e8a89aaf7defedddf129276c7cca944b18dda653952634057"
+  },
+  {
+    "question": "Will Person BC win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "109991392885629290447045955118745911884792224418015785334976773841193695492536",
+    "condition_id": "0x9c966d8619fb444e8a89aaf7defedddf129276c7cca944b18dda653952634057"
+  },
+  {
+    "question": "Will Person CQ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "32317320278657147553178125189611896679919324271037825070313117686302150079318",
+    "condition_id": "0xb7b5b04a48edacf2ec1224bfbb3bf0f369f1408aa6018532cb2ad11c4b8a1c0f"
+  },
+  {
+    "question": "Will Person CQ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "53758234357751912923319614089295522638387037454741269660418113169014179447364",
+    "condition_id": "0xb7b5b04a48edacf2ec1224bfbb3bf0f369f1408aa6018532cb2ad11c4b8a1c0f"
+  },
+  {
+    "question": "Will Ro Khanna win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "20374050108659687356429749447884880983779889840007423115803042125707701269498",
+    "condition_id": "0x20d0bc282552ac5ec6f61cd7101cb42a5948cae07e7651bdf40ede1a8b2c5eac"
+  },
+  {
+    "question": "Will Ro Khanna win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "2610336024939503976910443133965525155112118948066646227040491461288298872236",
+    "condition_id": "0x20d0bc282552ac5ec6f61cd7101cb42a5948cae07e7651bdf40ede1a8b2c5eac"
+  },
+  {
+    "question": "Will Person AI win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "376808417481337656833380391086359444919660380781978211139546603503615770048",
+    "condition_id": "0xbf09504fd1fde69ad8ae37af8b8a3c8307f0c31402cab9ecb0adecd0bf0346e3"
+  },
+  {
+    "question": "Will Person AI win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "34756415356345919663495172103852488645209664717781934843234398192259293214575",
+    "condition_id": "0xbf09504fd1fde69ad8ae37af8b8a3c8307f0c31402cab9ecb0adecd0bf0346e3"
+  },
+  {
+    "question": "Will Person BY win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "58613551230148701975721318871232248192511284957579651903851462413128824171551",
+    "condition_id": "0x4275094434ae6b01ef6e209542080889993e286b555ba12c6a03d790a482c363"
+  },
+  {
+    "question": "Will Person BY win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "8878773222267185565879110294980414940858786428409316550445841725484002891769",
+    "condition_id": "0x4275094434ae6b01ef6e209542080889993e286b555ba12c6a03d790a482c363"
+  },
+  {
+    "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "71169839497420596285841847514123589847893415750912355173877524195175834054354",
+    "condition_id": "0xd65891729ce093cc12236856837eba1a0872fc7998fd4294c21346f7db68079c"
+  },
+  {
+    "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "55290827599553280245963175724940496753557722439999671239772487781170052583987",
+    "condition_id": "0xd65891729ce093cc12236856837eba1a0872fc7998fd4294c21346f7db68079c"
+  },
+  {
+    "question": "Will Roy Cooper win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "30732552320006664177902085971957467957450485111214036633872573588757974348601",
+    "condition_id": "0x939eeb2dea216749bd409bedde483c3f2bfb0e24d4f2d34461c0b21c6e91f010"
+  },
+  {
+    "question": "Will Roy Cooper win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "55053374667733007627913689484290555932799177921000957543346276204775142445823",
+    "condition_id": "0x939eeb2dea216749bd409bedde483c3f2bfb0e24d4f2d34461c0b21c6e91f010"
+  },
+  {
+    "question": "Will Jasmine Crockett win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "22103094389913052942362639589409218272323168761614999702665821259175535456835",
+    "condition_id": "0x3cd6e52603d80ddbbdac9b1a4d43f9b7faa6aae4fae4d0fdfad3bd58454da7d3"
+  },
+  {
+    "question": "Will Jasmine Crockett win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "10893367019711826592833821276710094799225035200719824531380610476790390190688",
+    "condition_id": "0x3cd6e52603d80ddbbdac9b1a4d43f9b7faa6aae4fae4d0fdfad3bd58454da7d3"
+  },
+  {
+    "question": "Will Person O win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "54840717483866263964304723492966182979723045222316848733193673523986124053075",
+    "condition_id": "0x6685b25cc7c89032efcdf81eb27fdc6bbf04a3e4299bcd99c9f3d62c8471001e"
+  },
+  {
+    "question": "Will Person O win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "2830559553603011758209706316487895188007644895898957662939818867834634821212",
+    "condition_id": "0x6685b25cc7c89032efcdf81eb27fdc6bbf04a3e4299bcd99c9f3d62c8471001e"
+  },
+  {
+    "question": "Will Person BD win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "108012927827455798901877105353531764092446777855603078339379003728853169488736",
+    "condition_id": "0x9d6949232228d122108aaf92f8babe1409dc776f63cd3603a20d745a48c5455a"
+  },
+  {
+    "question": "Will Person BD win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "26731090101721654618092916411461961436575335860505921973555933788608176812057",
+    "condition_id": "0x9d6949232228d122108aaf92f8babe1409dc776f63cd3603a20d745a48c5455a"
+  },
+  {
+    "question": "Will Person BG win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "20116381729594621698582620066963951082854849431795417656731034603385615770093",
+    "condition_id": "0xe43ba26a1434bb09e5743b6e5af173cfffc7495ac12edbc4e3ad6f9c0345bf03"
+  },
+  {
+    "question": "Will Person BG win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "36941084506187914166948974778869998862057410954056681071899681918551446284691",
+    "condition_id": "0xe43ba26a1434bb09e5743b6e5af173cfffc7495ac12edbc4e3ad6f9c0345bf03"
+  },
+  {
+    "question": "Will Person BW win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "2359737881937058260209480355322597855965610599791044022775233196292728508876",
+    "condition_id": "0x209024efc9f2b22f797c6cc9eda832fea412a3ec588a0ea4ef716dd9a6424199"
+  },
+  {
+    "question": "Will Person BW win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "14888709664171143239701182463381679361543814387149579923355069043203843191608",
+    "condition_id": "0x209024efc9f2b22f797c6cc9eda832fea412a3ec588a0ea4ef716dd9a6424199"
+  },
+  {
+    "question": "Will Person CA win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "4356960569441199158722605804968175121908276266459786333500545175993798317244",
+    "condition_id": "0x64baa2e1df096e754330bfb797d6764f191f559a6efe4a91e127e3ace8a58812"
+  },
+  {
+    "question": "Will Person CA win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "94512084389079902866470414489646879533897465132546942602244421402404916812818",
+    "condition_id": "0x64baa2e1df096e754330bfb797d6764f191f559a6efe4a91e127e3ace8a58812"
+  },
+  {
+    "question": "Will Person V win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "82322606787689507186452368934268895797822450917805855938369533831277560432502",
+    "condition_id": "0xe29ca104ce56feb4c093c133b5dfc0c379e505373b4412cfec54fe2220f20b68"
+  },
+  {
+    "question": "Will Person V win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "89468624821153339755038928248216667629141563933414663720232714629209306424979",
+    "condition_id": "0xe29ca104ce56feb4c093c133b5dfc0c379e505373b4412cfec54fe2220f20b68"
+  },
+  {
+    "question": "Will Person AR win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "101659693647085800762917891238675551879906442749641122280045422284432369792992",
+    "condition_id": "0xf3f3e26f23010782f75a22005641736242fa4e54fe07dea36b7a0cdfdfb214ea"
+  },
+  {
+    "question": "Will Person AR win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "99560102509844564111517837018013280327251386675027207005472561259560747053794",
+    "condition_id": "0xf3f3e26f23010782f75a22005641736242fa4e54fe07dea36b7a0cdfdfb214ea"
+  },
+  {
+    "question": "Will Person CG win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "115716595989803718163287846877025965085569712367804102621060029058167993004938",
+    "condition_id": "0x9a8b08b465f500645bc68f65a0d81abd10583629e29e97084df6eb3153d0532a"
+  },
+  {
+    "question": "Will Person CG win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "5156948916353868049488538665659976656506511303296024264262985448625451575704",
+    "condition_id": "0x9a8b08b465f500645bc68f65a0d81abd10583629e29e97084df6eb3153d0532a"
+  },
+  {
+    "question": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "38171024903091354977195167437673496224420673639143973968032407064172828043588",
+    "condition_id": "0x909659c9436228e2be56d5582ba6188166f2f8bf3c596335512c8f2e380d01ec"
+  },
+  {
+    "question": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "26930844951471612827925270830087046333229637930899178134435055616497220846773",
+    "condition_id": "0x909659c9436228e2be56d5582ba6188166f2f8bf3c596335512c8f2e380d01ec"
+  },
+  {
+    "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "6349038249650226718426900942104344803413105653564595362433352811865798195800",
+    "condition_id": "0x663b88d3a8f2341bb8d878709dc78632bcaf7512e577bd15521e5d8ed933efbc"
+  },
+  {
+    "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "57931882677606943294773135604094039468334392354204920135953322654005083822055",
+    "condition_id": "0x663b88d3a8f2341bb8d878709dc78632bcaf7512e577bd15521e5d8ed933efbc"
+  },
+  {
+    "question": "Will Person R win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "48455736546094517370011063312529885328905072240106316551156607253162886762655",
+    "condition_id": "0xe50c71cc5e2372bf0f6194a02e51459dd03b2c7b2d78a0d4650e5f36c425338b"
+  },
+  {
+    "question": "Will Person R win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "21910945789202551310737182019481519202352824012676720876277298283641159588352",
+    "condition_id": "0xe50c71cc5e2372bf0f6194a02e51459dd03b2c7b2d78a0d4650e5f36c425338b"
+  },
+  {
+    "question": "Will Person X win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "47275508664237384863356814409107860719351037737230447841474309954580073850807",
+    "condition_id": "0xd2c0cc6a7ad3c0e2590fa55095052e98b1a2b146e9b807138c7421ac0e39c60e"
+  },
+  {
+    "question": "Will Person X win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "38896461974814667313044847720572675460132928251441447945260531463708232172476",
+    "condition_id": "0xd2c0cc6a7ad3c0e2590fa55095052e98b1a2b146e9b807138c7421ac0e39c60e"
+  },
+  {
+    "question": "Will Person AT win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "85009874682437167002996762734602974227945731571040976460645912261068211636514",
+    "condition_id": "0xed246c2cedbe20daad562d806aa8e32983bf873f643b18e58c09d10cde5e78ef"
+  },
+  {
+    "question": "Will Person AT win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "104957806583367194563591233148608087258503641593494535222419722546915739095256",
+    "condition_id": "0xed246c2cedbe20daad562d806aa8e32983bf873f643b18e58c09d10cde5e78ef"
+  },
+  {
+    "question": "Will Person CC win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "23049046261430837004208345741849895037369831506265578656171254500480047942037",
+    "condition_id": "0x4ed9d7bd83931f1b818e9e71fff3290109e8482ed7f3d17256e7fa2fb64c9317"
+  },
+  {
+    "question": "Will Person CC win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "46135105874009958504608328113363984432195647575823021050049396157718386560836",
+    "condition_id": "0x4ed9d7bd83931f1b818e9e71fff3290109e8482ed7f3d17256e7fa2fb64c9317"
+  },
+  {
+    "question": "Will Person Y win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "29878604448723855924400446002065536021791610829306351808926771496854988713261",
+    "condition_id": "0xf8446923a5100797caa47c0d0502d2403568d45ccddc995f2aa56a8611dcb024"
+  },
+  {
+    "question": "Will Person Y win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "61006263301260728117655008554091957503280298726330442226823159038302800409671",
+    "condition_id": "0xf8446923a5100797caa47c0d0502d2403568d45ccddc995f2aa56a8611dcb024"
+  },
+  {
+    "question": "Will Person AU win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "41515920152829650291858251175589986451543610495572081782380909252463958073957",
+    "condition_id": "0xbe210d30a2f91294fb766efc4cb76142f8a9486ec3e9e2e46e62dc9f02b16e51"
+  },
+  {
+    "question": "Will Person AU win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "14841494298726114430918495743846395541530152499073013242202169991764152451719",
+    "condition_id": "0xbe210d30a2f91294fb766efc4cb76142f8a9486ec3e9e2e46e62dc9f02b16e51"
+  },
+  {
+    "question": "Will Person CJ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "33645756346112791099249808695487766137187000087542675190102564532464658031114",
+    "condition_id": "0x33fe4323e3effbfcc39211e97297709c60e3cd4e262965e2087ee85a6a154f38"
+  },
+  {
+    "question": "Will Person CJ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "6096309035389757164962579617764182143008088124199172843026826468663603544517",
+    "condition_id": "0x33fe4323e3effbfcc39211e97297709c60e3cd4e262965e2087ee85a6a154f38"
+  },
+  {
+    "question": "Will Person AG win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "48270490804060140131032037934535570268160942318905686653641582250004852369595",
+    "condition_id": "0x99d5d39ac5b64aaa920466ffafcb93d82391f86358fca8172abde1ff99a3f69a"
+  },
+  {
+    "question": "Will Person AG win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "59011848394187249450819631918967354919110607877607690517421948978956389842445",
+    "condition_id": "0x99d5d39ac5b64aaa920466ffafcb93d82391f86358fca8172abde1ff99a3f69a"
+  },
+  {
+    "question": "Will Person CR win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "8926892612388166816472739431463132241656141667277050085214870274910525848633",
+    "condition_id": "0x39d2cd8c294ab6ceddcd0d5816a168cf10b5fe3526f728990084fb4fca86ddbb"
+  },
+  {
+    "question": "Will Person CR win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "66014272415064069689818504763230478275118409000655514793871368052950002452738",
+    "condition_id": "0x39d2cd8c294ab6ceddcd0d5816a168cf10b5fe3526f728990084fb4fca86ddbb"
+  },
+  {
+    "question": "Will Person AH win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "86317746274803156320549879915965638413354064180439581158529385115094912409250",
+    "condition_id": "0xd503ffa6b3c1133a5d3130a77e83c1c5f3075009ed4263ebcdd25b4b40ef6718"
+  },
+  {
+    "question": "Will Person AH win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "18343434034439764029943266413361346297578897914503261413966784513752775496956",
+    "condition_id": "0xd503ffa6b3c1133a5d3130a77e83c1c5f3075009ed4263ebcdd25b4b40ef6718"
+  },
+  {
+    "question": "Will Person BA win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "70214661410005729449473318521726334201265022784186806333106766548561675659612",
+    "condition_id": "0x727520e9ab455b9952612f8c6103bad2d14f72c2a10542d41ca97205ea3efe52"
+  },
+  {
+    "question": "Will Person BA win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "87481058129925333943158572246399221219125135943002027844292090941389017629537",
+    "condition_id": "0x727520e9ab455b9952612f8c6103bad2d14f72c2a10542d41ca97205ea3efe52"
+  },
+  {
+    "question": "Will Person BU win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "66579791893958186847994389479102334771948610342990026690228203484997440923655",
+    "condition_id": "0x29aa41a78edd1c1b35204268d2e1e04f7a3719396238ea833ed21468f4db15c7"
+  },
+  {
+    "question": "Will Person BU win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "73818308367912187362768276592562898360779013559274927605759082013011888990802",
+    "condition_id": "0x29aa41a78edd1c1b35204268d2e1e04f7a3719396238ea833ed21468f4db15c7"
+  },
+  {
+    "question": "Will Person CS win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "6540020669668808539907671674220918265886665868824597316362332959471119335400",
+    "condition_id": "0x4b163c69156f61b7cca8ab044014bcd00c7fd1c05b55b84c6b808d3d644b0254"
+  },
+  {
+    "question": "Will Person CS win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "17411535874191696733986054001557766538533104241367056393132151641515883586092",
+    "condition_id": "0x4b163c69156f61b7cca8ab044014bcd00c7fd1c05b55b84c6b808d3d644b0254"
+  },
+  {
+    "question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "54533043819946592547517511176940999955633860128497669742211153063842200957669",
+    "condition_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75"
+  },
+  {
+    "question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "87854174148074652060467921081181402357467303721471806610111179101805869578687",
+    "condition_id": "0x0f49db97f71c68b1e42a6d16e3de93d85dbf7d4148e3f018eb79e88554be9f75"
+  },
+  {
+    "question": "Will Person AM win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "24463380838555555898257507477078722428963832652210454536251912330779587483967",
+    "condition_id": "0x14b39bbeb20a20428d2efbfcd21723ac6d9e373a040d2a4843d156d6f6866a4c"
+  },
+  {
+    "question": "Will Person AM win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "83343384567081580397271991878185249185732210580310269315486462793969760541420",
+    "condition_id": "0x14b39bbeb20a20428d2efbfcd21723ac6d9e373a040d2a4843d156d6f6866a4c"
+  },
+  {
+    "question": "Will Person AZ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "113462459109689465682487627392992581611493348751534934718647204400327618179421",
+    "condition_id": "0x2b970a71234f95a7c0906ecdd6ede20748755baf4eb90be3d63094baba43e86a"
+  },
+  {
+    "question": "Will Person AZ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "44773234501804895025796870591355628368524959539954800861506563454668539044811",
+    "condition_id": "0x2b970a71234f95a7c0906ecdd6ede20748755baf4eb90be3d63094baba43e86a"
+  },
+  {
+    "question": "Will Person BI win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "19790792064571046541578169765799899901002378212719174423066638403724285255524",
+    "condition_id": "0x5360670f296a413072ebcc6520a52a2e49e411c83fadffbb881f99b34d02a6f7"
+  },
+  {
+    "question": "Will Person BI win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "874014073776995174822296574388939096980359129867541926612902643717096371620",
+    "condition_id": "0x5360670f296a413072ebcc6520a52a2e49e411c83fadffbb881f99b34d02a6f7"
+  },
+  {
+    "question": "Will Person BT win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "7435518044771643970510449405753181664702047619703722663905401823394492684964",
+    "condition_id": "0xbabcfed91df618f34440aca58b22f0bbfd56fffb93a647961f5b5acdae5abf2c"
+  },
+  {
+    "question": "Will Person BT win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "86536028478955622375230628808804148381825618155956339458150226380921686337790",
+    "condition_id": "0xbabcfed91df618f34440aca58b22f0bbfd56fffb93a647961f5b5acdae5abf2c"
+  },
+  {
+    "question": "Will Person AN win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "99647573717270269044863497218588259111367157405587539287203435103673047120059",
+    "condition_id": "0xc03facf24346b33d45fd6554942398de94211fb126bb7732e37042fdf2ed3140"
+  },
+  {
+    "question": "Will Person AN win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "75990978913108441903011759573420499345845197503868275530637416568149537973224",
+    "condition_id": "0xc03facf24346b33d45fd6554942398de94211fb126bb7732e37042fdf2ed3140"
+  },
+  {
+    "question": "Will Person AY win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "59747442421951758642720743198973074026057843144164546446447251899716934519398",
+    "condition_id": "0xd50b5c4e6052cfdb8813e5cb7273f499cbeaa2b28b8e597e88da6380469f522f"
+  },
+  {
+    "question": "Will Person AY win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "36005876767353060463699918852395107774023873816709021017612298115943483847042",
+    "condition_id": "0xd50b5c4e6052cfdb8813e5cb7273f499cbeaa2b28b8e597e88da6380469f522f"
+  },
+  {
+    "question": "Will Person BS win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "29203824623103490343792471692550725556042603880337099485767887030673325339952",
+    "condition_id": "0xa524c8a0f2a07bc7ec7485a9d1bec6bcc9027e24991fab2a00103aa0499695b6"
+  },
+  {
+    "question": "Will Person BS win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "15326738803978623007246002797746169047369734742022851938909209951400719054760",
+    "condition_id": "0xa524c8a0f2a07bc7ec7485a9d1bec6bcc9027e24991fab2a00103aa0499695b6"
+  },
+  {
+    "question": "Will Person Q win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "23940655822937666554179928631365405234554137716172612284986318717257054413669",
+    "condition_id": "0x32927476aa07b4ba64858a48799fd5155e0573facb46fdec670134c88b87f696"
+  },
+  {
+    "question": "Will Person Q win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "74558297484750387958365610940184220316219182006445006209048673137036909262424",
+    "condition_id": "0x32927476aa07b4ba64858a48799fd5155e0573facb46fdec670134c88b87f696"
+  },
+  {
+    "question": "Will Person BB win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "32692452484608452879096941495401832832577381461193301209264112574172252125722",
+    "condition_id": "0x1190744b4d99711806418d6de9da0107d045491606a796c446209ab8928042d4"
+  },
+  {
+    "question": "Will Person BB win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "59650574318324779129820963362599993750241010277003749149222258195766407842046",
+    "condition_id": "0x1190744b4d99711806418d6de9da0107d045491606a796c446209ab8928042d4"
+  },
+  {
+    "question": "Will Person BK win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "59595939933591988172382784572062823829951765115530634501813346513047995368513",
+    "condition_id": "0x09c034158aa06326d839fa381b730c6af622342252520c692729d5bdd88ec718"
+  },
+  {
+    "question": "Will Person BK win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "114424419842306856703231820593897875172661875179216482075733589406519333951144",
+    "condition_id": "0x09c034158aa06326d839fa381b730c6af622342252520c692729d5bdd88ec718"
+  },
+  {
+    "question": "Will Person BQ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "Yes",
+    "asset_id": "47283709292818159981092214523559721147807560945403058940532915962307613022941",
+    "condition_id": "0xa63054b2f90b7db1a4b239718fb2b6a910535e8a3c5a13eae99ba8d6028dbbcc"
+  },
+  {
+    "question": "Will Person BQ win the 2028 Democratic presidential nomination?",
+    "outcome_type": "No",
+    "asset_id": "33998816999917317148703516869893210096024522472394560671958482821373764815041",
+    "condition_id": "0xa63054b2f90b7db1a4b239718fb2b6a910535e8a3c5a13eae99ba8d6028dbbcc"
+  }
+]

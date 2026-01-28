@@ -1,0 +1,11 @@
+{
+    "asset_id": "54533043819946592547517511176940999955633860128497669742211153063842200957669",
+    "timestamp": 1769385195543,
+    "side": "sell",
+    "input_amount": 100000.0,
+    "output_amount": 33523.161593627185,
+    "average_price": 0.3352,
+    "slippage_percent": 1.4,
+    "best_price_start": 0.3400000035762787,
+    "is_partial_fill": false
+}
