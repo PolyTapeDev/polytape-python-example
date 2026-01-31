@@ -3,11 +3,16 @@ import requests
 import json
 import time
 
+from dotenv import load_dotenv
+
+load_dotenv()
 # ==========================================
 # CONFIGURATION
 # ==========================================
 API_URL = "https://api.polytape.xyz"  # Local Testing Endpoint
-API_KEY = "Please replace this with your api key"            # Your PolyTape API Key
+
+# sample .env file should contain POLYTAPE_API_KEY=your_api_key_here
+API_KEY = os.getenv("POLYTAPE_API_KEY", "your_api_key_here")
 
 # Target Asset Metadata (Gavin Newsom 2028 Democratic Nominee - Yes)
 TARGET_ASSET = {
