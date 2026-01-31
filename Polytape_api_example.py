@@ -6,8 +6,7 @@ import time
 # ==========================================
 # CONFIGURATION
 # ==========================================
-# Once deployed to your Droplet, change this to "https://api.polytape.xyz"
-API_URL = "http://localhost:8000"  # Local Testing Endpoint
+API_URL = "https://api.polytape.xyz"  # Local Testing Endpoint
 API_KEY = "Please replace this with your api key"            # Your PolyTape API Key
 
 # Target Asset Metadata (Gavin Newsom 2028 Democratic Nominee - Yes)
